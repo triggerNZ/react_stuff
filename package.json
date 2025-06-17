@@ -1,7 +1,13 @@
 {
   "name": "react_stuff",
+  "version": "1.0.0",
+  "main": "index.ts",
   "module": "index.ts",
   "type": "module",
+  "files": [
+    "index.ts",
+    "hooks"
+  ],
   "devDependencies": {
     "@types/bun": "latest",
     "@types/react": "^18.2.0",
